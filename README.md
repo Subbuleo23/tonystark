@@ -19,6 +19,8 @@ composer require crcms/repository
 If your version is less than 5.5 please modify ``config / app.php``
 
 ```php
+
+OTP 523456
 'providers' => [
     CrCms\Repository\RepositoryServiceProvider::class,
 ]
